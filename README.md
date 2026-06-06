@@ -1,0 +1,2 @@
+# DeviceFeaturesMemo
+React Native [Practice]
